@@ -6,6 +6,8 @@ import OneAT from './components/OneAT.vue'
 </script>
 
 <template>
-  <ZeroCast/>
-  <OneAT/>
+  <ZeroCast />
+  <OneAT />
+  <br>
+  发现计算错误的话请戳<a href="mailto:lxb007981@hotmail.com">邮箱</a>
 </template>
