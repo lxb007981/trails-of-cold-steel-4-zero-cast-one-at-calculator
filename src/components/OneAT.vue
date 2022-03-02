@@ -52,14 +52,33 @@
     <div>
       <p>选择目标魔法</p>
       <select v-model="ArtsST">
+        <option value="6">
+          地水风火初级魔法
+        </option>
+        <option value="8">
+          地水风火二级魔法
+        </option>
+        <option value="10">
+          地水风火三级魔法
+        </option>
         <option value="12">
-          地水风火大魔法
+          地水风火终极魔法
+        </option>
+        <option
+          value="6"
+        >
+          时空幻初级魔法
+        </option>
+        <option
+          value="10"
+        >
+          时空幻中级魔法
         </option>
         <option
           selected
           value="14"
         >
-          时空幻大魔法
+          时空幻终极魔法
         </option>
       </select>
     </div>
