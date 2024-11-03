@@ -9,5 +9,5 @@ import OneAT from './components/OneAT.vue'
   <ZeroCast />
   <OneAT />
   <br>
-  发现计算错误的话请戳<a href="mailto:lxb007981@hotmail.com">邮箱</a>
+  发现计算错误的话请戳<a href="https://github.com/lxb007981/trails-of-cold-steel-4-zero-cast-one-at-calculator/issues">issues</a>
 </template>
